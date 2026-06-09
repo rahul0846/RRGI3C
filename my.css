@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: blue;
+    margin:5px;
+    padding:5px;
+}
+.main{
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 100px;
+    padding-left: 2px;
+    background-color: aquamarine;
+}
+#btn{
+   margin-left: 100px;
+   background-color: blue;
+}
